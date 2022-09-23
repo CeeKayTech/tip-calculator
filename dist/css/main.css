@@ -79,6 +79,11 @@ body {
   font-weight: 600;
 }
 
+#custom {
+  color: rgba(16, 56, 61, 0.945);
+  background: rgb(210, 228, 222);
+}
+
 .second {
   min-width: 300px;
   margin: 1rem;
