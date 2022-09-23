@@ -7,6 +7,10 @@ html
 css
 javascript
 
+directions 
+
+check the dist directory for the html and JavaScript files
+
 at the end of this project you should be able to create a tip calculator and make it functional by adding javascript.
  
  how it works!
