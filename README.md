@@ -4,7 +4,7 @@ this is a tip calculator to calculate the tip received after the initial bill ha
 
 this project was made with the following;
 html
-css
+scss
 javascript
 
 directions 
